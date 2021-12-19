@@ -6,6 +6,11 @@ assumed or required. Follow the instructions below to start making tests pass!
 
 ## Getting Started
 
+## Install also
+ - VSCode
+ - Git
+ 
+
 I recommend starting from a cloned or forked repo. This way you'll be able to
 track your progress in Git. You might want to create your own branch - that way
 if you pull back the latest koans from master, it'll be a bit easier to manage
